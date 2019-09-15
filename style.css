@@ -11,7 +11,7 @@ html {
 	width: calc(50%);
 	margin-left: 5em;
 	margin-right: 5em;
-	background-color: #f56;
+	background-color: #54D850;
 }
 body {
 	padding: 0;
@@ -26,7 +26,7 @@ a {
 }
 header {
 	display: run-in;
-	background-color: #f56;
+	background-color: #54D850;
 }
 h1{
 	font-size: 56px;
