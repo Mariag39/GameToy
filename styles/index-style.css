@@ -25,10 +25,10 @@
 /* Close button */
 .closebtn {
   position: absolute;
-  top: 5px;
+  bottom: 5px;
   right: 15px;
-  color: white;
-  font-size: 30px;
+  color: blue;
+  font-size: 12px;
   cursor: pointer;
 }
 
