@@ -93,13 +93,13 @@
 
 					cartStyle				: "div",
 					cartColumns			: [
-						{ attr: "name", label: "Name" },
-						{ attr: "price", label: "Price", view: 'currency' },
+						{ attr: "name", label: "Nombre" },
+						{ attr: "price", label: "Precio", view: 'currency' },
 						{ view: "decrement", label: false },
-						{ attr: "quantity", label: "Qty" },
+						{ attr: "quantity", label: "Cantidad" },
 						{ view: "increment", label: false },
 						{ attr: "total", label: "SubTotal", view: 'currency' },
-						{ view: "remove", text: "Remove", label: false }
+						{ view: "remove", text: "Eliminar", label: false }
 					],
 
 					excludeFromCheckout	: ['thumb'],
