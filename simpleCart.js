@@ -87,7 +87,7 @@
 
 				// default options
 				settings = {
-					checkout				: { type: "PayPal", email: "you@yours.com" },
+					checkout				: { type: "SendForm", email: "ralduam@gmail.com" },
 					currency				: "EUR",
 					language				: "english-us",
 
@@ -106,7 +106,7 @@
 
 					shippingFlatRate		: 0,
 					shippingQuantityRate	: 0,
-					shippingTotalRate		: 0,
+					shippingTotalRate		: 4.90,
 					shippingCustom		: null,
 
 					taxRate				: 0,
