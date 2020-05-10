@@ -106,7 +106,7 @@
 
 					shippingFlatRate		: 0,
 					shippingQuantityRate	: 0,
-					shippingTotalRate		: 0.04,
+					shippingTotalRate		: 0.004,
 					shippingCustom		: null,
 
 					taxRate				: 0,
